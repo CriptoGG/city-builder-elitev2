@@ -1,0 +1,3 @@
+# This directory is for user-provided sound files (e.g., .wav).
+# Examples: ui_click.wav, build_place.wav, error.wav
+# This .gitkeep file ensures the directory is tracked by Git even if empty.

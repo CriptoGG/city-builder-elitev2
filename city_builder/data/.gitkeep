@@ -1,0 +1,4 @@
+# This directory is reserved for save game files.
+# By default, saves like 'city_save.json' will be stored here.
+# This .gitkeep file ensures the directory is tracked by Git even if empty.
+# Save files themselves should typically be in .gitignore.
